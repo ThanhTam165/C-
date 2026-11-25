@@ -1,0 +1,2 @@
+﻿Model,K,Silhouette,Davies_Bouldin,Calinski_Harabasz,Inertia,Feature_space
+K-Means,2,0.25972512523827185,1.5930597494753047,196.1747033593416,217.94124722538578,Euclidean on Hellinger
